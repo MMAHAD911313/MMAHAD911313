@@ -1,5 +1,5 @@
-<h1 align="center">Hi :wave:, I'm Muhammad Mahad, Coding the Future Together! I am a Software Engineer with expertise in Artificial Intelligence, Blockchain, IoT, and Cloud. Lets keep solving.</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi :wave:, Muhammad Mahad is here.</h1>
+<h3 align="center">Coding the Future Together! I am a Software Engineer with expertise in Artificial Intelligence, Blockchain, IoT, and Cloud. Lets keep solving.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-mahad23&label=Profile%20views&color=0e75b6&style=flat" alt="m-mahad23" /> </p>
 - :mailbox: How to reach me: mmahad913@gmail.com
 <h3 align="left">Connect with me:</h3>
